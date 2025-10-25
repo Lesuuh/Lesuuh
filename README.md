@@ -20,7 +20,7 @@ I create full-stack web solutions that solve real-world problems. From anonymous
 
 **Tools & Services:** Git • Firebase • Supabase • Vercel • Netlify
 
-**Currently Exploring:** Web Performance Optimization • Advanced TypeScript • Testing with Jest & React Testing Library
+**Currently Exploring:** Backend Development with Node and Express • Web Performance Optimization • TypeScript • Testing with Jest & React Testing Library
 
 ## 📊 GitHub Stats
 
@@ -33,6 +33,7 @@ I create full-stack web solutions that solve real-world problems. From anonymous
 📧 **Email:** lesuuh01@gmail.com  
 🌐 **Portfolio:** [lesuuh.vercel.app](https://lesuuh.vercel.app)  
 🐦 **Twitter:** [@UKLesuuh](https://twitter.com/UKLesuuh)
+
 
 ---
 
