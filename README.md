@@ -12,7 +12,7 @@ I create full-stack web solutions that solve real-world problems. From anonymous
 
 - **[NOA CBT Exam Prep](https://github.com/Lesuuh/noa-cbt)** - Computer-based testing platform for National Orientation Agency promotional exams
 - **[Whispers](https://github.com/Lesuuh/whispers)** - Real-time anonymous blogging platform with full-stack architecture
-- **[Intervue](https://github.com/Lesuuh/intervue)** - AI-powered mock interview application
+- **[Cybertech](https://github.com/Lesuuh/cybertech)** - An electronic e-commerce website
 
 ## 💻 Tech Stack
 
